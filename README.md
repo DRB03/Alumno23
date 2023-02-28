@@ -1,2 +1,4 @@
-# Alumno23
-estes es un repo de ejemplo
+# Alumno
+estes es un repositorio de ejemplo
+
+##MONSTER INC
